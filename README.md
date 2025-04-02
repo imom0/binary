@@ -1,6 +1,5 @@
 # binary
 
-
 ### Borsh
 
 #### Decoding borsh
